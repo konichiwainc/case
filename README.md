@@ -20,7 +20,7 @@ The app does use third-party services that may collect information used to ident
 
 Links to privacy policies of third-party service providers used by the app: 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Unity Ads](https://unity3d.com/ru/legal/content-policy)
 
 **Log Data**
 
