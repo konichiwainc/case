@@ -18,8 +18,7 @@ on your device and is not collected by us in any way.
 
 The app does use third-party services that may collect information used to identify you.
 
-Links to privacy policies of third-party service providers used by the app: 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+Links to privacy policies of third-party service providers used by the app:
 *   [Unity Ads](https://unity3d.com/ru/legal/content-policy)
 
 **Log Data**
